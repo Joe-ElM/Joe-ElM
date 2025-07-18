@@ -167,5 +167,5 @@ Interdisciplinary & Intercultural Competence in the EMEA Region • High Learnin
 ---
 
 <div align="center">
-  <i>From automotive test benches to AI model training - the journey continues! 🚗➡️🤖</i>
+  <i>From automotive test benches Data Analytics and Data Science to AI model training - the journey continues! ➡️🤖</i>
 </div>
