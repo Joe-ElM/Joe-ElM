@@ -105,23 +105,23 @@ I specialize in turning raw data into actionable insights and am now developing 
 ## Professional Journey
 
 ### Current Focus
-**AI Engineering at Turing College** *(2025)*
+**AI Engineering at Turing College** 
 - Advanced LLM applications and prompt engineering
 - AI agent architectures with LangChain & LangGraph
 - Real-world generative AI projects
 
 ### Recent Experience
-**Specialist Data Analytics - BMW AG** *(2023-2025)*
+**Specialist Data Analytics** 
 - Automated duplicate detection using EDA, NLP & ML techniques
 - Built interactive dashboards for large-scale test data visualization
 - Developed data-driven solutions for quality optimization
 
 ### Engineering Background
-**Test Engineer - BMW Group** *(2008-2021)*
+**Test Engineer - BMW Group** 
 - 10+ years in automotive testing and validation
 - Python-based test automation development
 - ADAS sensor & system quality assurance
-- Transition from hardware testing to data analytics
+- Transition from SW testing to data analytics
 
 ---
 
