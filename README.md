@@ -22,14 +22,14 @@ I'm a passionate **AI & ML Engineer** and **Data Scientist** based in Munich, Ge
 
 I specialize in turning raw data into actionable insights and am now developing my passion towards agentic AI and LLM-powered applications. My skills are supported by AWS AI Practitioner, Machine Learning Engineer, and Azure Fundamentals certifications.
 
-- ✅ Completing the AI Engineering program at Turing College, focusing on real-world applications with LLMs and Agentic AI systems
-- ✅ Expertise Areas: Generative AI, Large Language Models (LLMs), Deep Learning, and Data Science
-- ✅ Tech Stack: Python, PyTorch, TF, OpenAI API, LangChain, LangGraph, Streamlit, SQL, Git, Pandas, Scikit-learn, and vector databases
-- ✅ Project Focus: AI agents, Retrieval-Augmented Generation (RAG), Agentic workflows, time series analysis, classification/regression
-- ✅ Analytics Skills: Exploratory Data Analysis (EDA), feature engineering, dashboarding, and data-driven business insights
-- ✅ Background: 10+ years in the automotive industry with a focused transition into AI, data science, and intelligent system design
-- ✅ Location: Munich, Germany — open to hybrid or remote roles across the EU
-- ✅ Languages: English, German, Arabic (all business fluent)
+- Completing the AI Engineering program at Turing College, focusing on real-world applications with LLMs and Agentic AI systems
+- Expertise Areas: Generative AI, Large Language Models (LLMs), Deep Learning, and Data Science
+- Tech Stack: Python, PyTorch, TF, OpenAI API, LangChain, LangGraph, Streamlit, SQL, Git, Pandas, Scikit-learn, and vector databases
+- Project Focus: AI agents, Retrieval-Augmented Generation (RAG), Agentic workflows, time series analysis, classification/regression
+- Analytics Skills: Exploratory Data Analysis (EDA), feature engineering, dashboarding, and data-driven business insights
+- Background: 10+ years in the automotive industry with a focused transition into AI, data science, and intelligent system design
+- Location: Munich, Germany — open to hybrid or remote roles across the EU
+- Languages: English, German, Arabic (all business fluent)
 
 ---
 
