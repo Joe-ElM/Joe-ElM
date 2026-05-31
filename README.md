@@ -9,7 +9,6 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Joe-ElM&color=0e75b6&style=flat)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-elmotto/)
-  [![XING](https://img.shields.io/badge/Xing-006567?style=flat&logo=xing&logoColor=white)](https://www.xing.com/profile/Joseph_ElMotto)
   [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/joseph-el-motto)
   
 </div>
@@ -160,7 +159,7 @@ Interdisciplinary & Intercultural Competence in the EMEA Region • High Learnin
   
   **Always open to discussing AI/ML opportunities, data science projects, or just geeking out about the latest in generative AI!**
   
-  🔗 [LinkedIn](https://www.linkedin.com/in/joseph-elmotto/) • [XING](https://www.xing.com/profile/Joseph_ElMotto) • [Credly](https://www.credly.com/users/joseph-el-motto)
+  🔗 [LinkedIn](https://www.linkedin.com/in/joseph-elmotto/) • [Credly](https://www.credly.com/users/joseph-el-motto)
   
 </div>
 
